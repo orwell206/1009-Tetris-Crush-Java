@@ -44,5 +44,8 @@ Brainstorm on what features are critical for your project. Also discuss the prop
 - BgMusic and SoundEffect classes: catch I/O Exception and Unsupported Audio File Exception if the audio file is not found or not in WAV format
 
 -----
-### UML Diagram
-<img src="https://github.com/sgtechICT1009/ict1009-team42-2021/blob/master/1009%20uml.png" alt="UML Diagram" width="400"/>
+### Credits 
+- @junhui-f
+- @tanchiawei
+- @orwell206
+- @shufenlim
