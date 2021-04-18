@@ -45,7 +45,8 @@ Brainstorm on what features are critical for your project. Also discuss the prop
 
 -----
 ### Credits 
-- @junhui-f
-- @tanchiawei
-- @orwell206
-- @shufenlim
+- junhui-f
+- tanchiawei
+- orwell206
+- shufenlim
+- YangYuqin23
