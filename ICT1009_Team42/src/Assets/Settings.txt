@@ -1,0 +1,2 @@
+musicstate=1
+volume=0.30

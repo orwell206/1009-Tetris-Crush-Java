@@ -1,0 +1,10 @@
+Chia Wei,8000
+Jun Hui,8000
+Ryan,4000
+ShuFen,4000
+Sadiq,2000
+YuQing,2000
+ProfNisha,1000
+ProfWei,1000
+Student1,10
+Student2,0
