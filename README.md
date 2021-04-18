@@ -33,18 +33,7 @@ Brainstorm on what features are critical for your project. Also discuss the prop
 - [x] Settings menu
 - [x] Persistent scoreboard
 
-##### Lab 4, Task4:
-- Used *abstract* in `TetrominoShape`
-- Used *interfaces* for `KeyBinding`, `GameBoard` and `TetrominoRotation`
-- Used *polymorphism* for `PlayMusic()` in `Audio` , `render()` in `GameBoard` and `GetMethods` in `Levels`
-
-##### Lab 5, Task3:
-- Settings class: catch I/O Exception if the setting file is not found
-- MainFrame class: catch Number Format Exception and Null Pointer Exception if data retreived from the file is invalid, such as the value of audio volume is some random characters
-- BgMusic and SoundEffect classes: catch I/O Exception and Unsupported Audio File Exception if the audio file is not found or not in WAV format
-
------
-### Credits 
+### Credits:
 - junhui-f
 - tanchiawei
 - orwell206
